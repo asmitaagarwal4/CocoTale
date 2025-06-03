@@ -1,4 +1,4 @@
-description,city_name,date
+weather_summary,city_name,date
 "In Delhi during 01/1990, the average temperature was 16.32°C, with highs up to 28.40°C and lows down to 5.20°C. There were 0.00 hours of precipitation and total precipitation of 0.00 mm. There were 299.89 hours of sunshine, with an average of 10.55 hours of daylight. The most frequent weather was Sunny occurring on 17 days.",Delhi,1990-01
 "In Delhi during 02/1990, the average temperature was 16.36°C, with highs up to 25.60°C and lows down to 7.60°C. There were 142.00 hours of precipitation and total precipitation of 106.20 mm. There were 234.12 hours of sunshine, with an average of 11.18 hours of daylight. The most frequent weather was Cloudy occurring on 7 days.",Delhi,1990-02
 "In Delhi during 03/1990, the average temperature was 20.37°C, with highs up to 32.30°C and lows down to 7.60°C. There were 4.00 hours of precipitation and total precipitation of 1.70 mm. There were 336.71 hours of sunshine, with an average of 11.99 hours of daylight. The most frequent weather was Cloudy occurring on 11 days.",Delhi,1990-03
